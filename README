@@ -3,3 +3,16 @@
 +--------------------------------+
 
 stuff from sussman wisdom farr.
+
+Installation
+------------
+1. Install ``mit-scheme``.
+2. Install ``scmutils`` from the internet, and put ``mechanics.sh``on the PATH.
+
+Usage
+-----
+mechanics.sh --load <source_file>
+
+Usage
+-----
+mechanics.sh --load r2.scm
